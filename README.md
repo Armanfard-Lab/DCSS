@@ -1,6 +1,6 @@
 # DCSS
 PyTorch implementation of DCSS
 
-<embed src="https://github.com/Armanfard-Lab/DCSS/blob/main/Figures/final_model.pdf" width="800px" />
+<center><img src="https://github.com/Armanfard-Lab/DCSS/blob/main/Figures/final_model-1.png" alt="Overview" width="800" align="center"></center>
 
 Note that you should have CUDA installed for running the code.
