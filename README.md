@@ -1,5 +1,5 @@
 # DCSS
-PyTorch implementation of DCSS
+PyTorch implementation of DCSS: Deep Clustering with Self-supervision using Pairwise Data Similarities
 
 <center><img src="https://github.com/Armanfard-Lab/DCSS/blob/main/Figures/final_model-1.png" alt="Overview" width="800" align="center"></center>
 
